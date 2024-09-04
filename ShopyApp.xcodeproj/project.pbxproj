@@ -19,7 +19,6 @@
 		3B1C84282C88A6730019278A /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B1C84272C88A6730019278A /* HomeViewModel.swift */; };
 		3B1C842A2C88A6C40019278A /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B1C84292C88A6C40019278A /* HomeViewController.swift */; };
 		3BA4AA102C88D4B60070F4EA /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BA4AA0F2C88D4B60070F4EA /* NetworkService.swift */; };
-		3BA4AA122C88DC040070F4EA /* URL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BA4AA112C88DC040070F4EA /* URL.swift */; };
 		3BA4AA152C88F84F0070F4EA /* AdsCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3BA4AA142C88F84F0070F4EA /* AdsCell.xib */; };
 		3BA4AA162C88F84F0070F4EA /* AdsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BA4AA132C88F84F0070F4EA /* AdsCell.swift */; };
 		3BA4AA192C88F8600070F4EA /* BrandsCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3BA4AA182C88F8600070F4EA /* BrandsCell.xib */; };
@@ -64,7 +63,6 @@
 		3B1C84272C88A6730019278A /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 		3B1C84292C88A6C40019278A /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		3BA4AA0F2C88D4B60070F4EA /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
-		3BA4AA112C88DC040070F4EA /* URL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URL.swift; sourceTree = "<group>"; };
 		3BA4AA132C88F84F0070F4EA /* AdsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdsCell.swift; sourceTree = "<group>"; };
 		3BA4AA142C88F84F0070F4EA /* AdsCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AdsCell.xib; sourceTree = "<group>"; };
 		3BA4AA172C88F8600070F4EA /* BrandsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandsCell.swift; sourceTree = "<group>"; };
@@ -209,7 +207,6 @@
 			isa = PBXGroup;
 			children = (
 				3BA4AA0F2C88D4B60070F4EA /* NetworkService.swift */,
-				3BA4AA112C88DC040070F4EA /* URL.swift */,
 			);
 			path = Remote;
 			sourceTree = "<group>";
@@ -532,7 +529,6 @@
 				3B1C842A2C88A6C40019278A /* HomeViewController.swift in Sources */,
 				3B1C83F02C887D8F0019278A /* ViewController.swift in Sources */,
 				3B1C83EC2C887D8F0019278A /* AppDelegate.swift in Sources */,
-				3BA4AA122C88DC040070F4EA /* URL.swift in Sources */,
 				3BA4AA1A2C88F8600070F4EA /* BrandsCell.swift in Sources */,
 				3B1C83EE2C887D8F0019278A /* SceneDelegate.swift in Sources */,
 				3BA4AA102C88D4B60070F4EA /* NetworkService.swift in Sources */,
